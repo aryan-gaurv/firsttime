@@ -11,6 +11,6 @@ public class add {
             System.out.println(i+","+j);
         }
         }
-System.out.println("Hello")
+System.out.println("Hello");
     }
 }
